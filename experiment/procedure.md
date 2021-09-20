@@ -1,6 +1,4 @@
-## Materials Required:
-
-&nbsp;
+#### Materials Required:
 
 
 1. IgG Antibody                                                      
@@ -19,12 +17,10 @@
 
  
 
-## Procedure:
-
-&nbsp;
+### Procedure:
 
  
-### Preparation of antibody-papain solution
+#### Preparation of antibody-papain solution
  
 
 1. Take 5 ml of PBS buffer in a 15ml screw capped tube.
@@ -39,7 +35,7 @@
 &nbsp;
 
 
-### Dialysis of  antibody –papain solution
+#### Dialysis of  antibody –papain solution
  
 
 1. Take a piece of dialysis tubing from ethanol storage solution with forceps and washed it with distilled water and put one clamp on one side of the tubing.
@@ -55,7 +51,7 @@
 
 
 
-### Fractionation of dialysed antibody-papain solution on CM-Cellulose slurry
+#### Fractionation of dialysed antibody-papain solution on CM-Cellulose slurry
  
 1. Wash the chromatographic column for 2 times using distilled water.
 2. Then the chromatographic column is prepared  using CM-Cellulose Slurry.
@@ -68,7 +64,7 @@
 &nbsp;
 
 
-### Refractionation of purified sample1 on DEAE –Cellulose slurry 
+#### Refractionation of purified sample1 on DEAE –Cellulose slurry 
  
  
 1. Wash the chromatographic column for 2 times using distilled water.
@@ -82,7 +78,7 @@
 &nbsp;
 
  
-### Dialysis of purified sample 2 in PBS buffer
+#### Dialysis of purified sample 2 in PBS buffer
  
 
 1. Take a piece of dialysis tubing from ethanol storage solution with forceps and washed it with distilled water and put one clamp on one side of the tubing.
@@ -98,7 +94,7 @@
 &nbsp;
 
  
-### Glycerol Stock Preparation
+#### Glycerol Stock Preparation
  
 
 1. Pipette out 5ml of 50% glycerol and added to a cryovial.
