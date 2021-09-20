@@ -1,4 +1,4 @@
-## Principle:
+### Principle:
  
 &nbsp;
  
@@ -10,7 +10,7 @@ Antibodies pervade almost every tissue and fluid in our body. Functionally antib
 &nbsp;
 
 
-### IgG Antibodies
+#### IgG Antibodies
  
 
 The important structural features of antibodies are easiest to understand by considering IgG antibodies which contain only one structural unit and also most abundant in serum. About 75% of all immunoglobulins in our body are IgG. Compared to the other classes of immunoglobulin it is small and light weighing in at about 146 kilodaltons. Its heavy chains are called gamma heavy chains and contain very little carbohydrate (about 3%).
@@ -36,10 +36,7 @@ The two heavy chain polypeptides in the Y structure are identical and are approx
 &nbsp;
  
 
-### Cleavage of IgG using Proteolytic Enzymes
- 
- 
-&nbsp;
+#### Cleavage of IgG using Proteolytic Enzymes
  
 
 The structural aspects of antibodies using Proteolytic enzymes such as Papain and pepsin were extensively studied by porter (1959) and Nisonoff.et.al (1960). The protein specific enzymes break the covalent peptide bond between two amino acid residues in the polypeptide chain, each enzyme having a special preference for a particular residue or residues.  Enzymes commonly used are Papain isolated from the latex of the papaya tree “Carcia papaya“ and pepsin isolated from stomach juice.
@@ -58,9 +55,6 @@ Papain splits the immunoglobulin molecule into three pieces of equal size. Thus 
 
 The fragments obtained by the Proteolytic cleavage of antibodies can be further subjected to chemical treatment yields smaller fragments. For example the treatment of Fab fragment with 2-Mercaptoethanol yields two smaller fragments one which is the L-chain while the other slightly larger than the L-chain. Also the prolonged treatment of Fc fragment with Papain cleaves this fragment further to produce Fc. By special chemical treatment it is also able to produce Fv fragments which consists of the VH  and VL domains held together by noncovalent bonds.
  
-
- 
-
  &nbsp;
 
 <img src="images/2.png" title=""/>
@@ -71,10 +65,7 @@ The fragments obtained by the Proteolytic cleavage of antibodies can be further 
  
 
  
-### Papain:
- 
-&nbsp;
-
+#### Papain:
  
 Papain is a cysteine protease of the peptidase C1 family. Papain consists of a single polypeptide chain with three disulfide bridges and a sulfhydryl group necessary for activity of the enzyme. Papain cleaves immunoglobulin G molecules in the hinge reason which results in the generation of three ~50kDa fragments; two Fab domains and a Fc domain.  The Papain-digested antibody is unable to promote agglutination, precipitation, opsonization, and lysis.
 
@@ -84,9 +75,6 @@ Papain is a cysteine protease of the peptidase C1 family. Papain consists of a s
 
 **Physical Properties and Kinetics**
  
- 
-&nbsp;
-
 Molecular weight: 23,406 Da (amino acid sequence)
 
 
@@ -103,9 +91,6 @@ pI: 8.75 ; 9.55
 
 **Spectral properties:**
  
- 
-&nbsp;
-
 λmax: 278 nm 19
 
 
@@ -121,21 +106,16 @@ Extinction coefficient, EmM = 57.6 (at 280 nm)
 
 **Solubility and Solution Stability**
  
-&nbsp;
-
- 
 
 Papain is soluble in water at 10 mg/ml. The enzyme is typically diluted in buffer containing ~5 mM L-cysteine immediately before its usage. Activation/stabilizing agents include EDTA, cysteine, and dimercaptopropanol. Although Papain solutions have good temperature stability, the solution stability is pH dependent. Papain solutions are unstable under acidic conditions, i.e., at pH values below 2.8, there is a significant loss in activity.
  
 &nbsp;
 
-<img src="images/1.png" title=""/>
+<img src="images/3.png" title=""/>
  
 &nbsp;
 
- 
-
-A common inactive form of Papain obtained during isolation is a mixed disulfide formed between the active site sulfhydryl group of the protein and free cysteine. Papain solutions are stable to several denaturing agents, i.e., full activity is maintained after recrystallization in 70% methanol and in 8 M urea solutions. However, there is a significant loss in activity when Papain is exposed to 10% trichloroacetic acid or to 6 M guanidine hydrochloride.
+ A common inactive form of Papain obtained during isolation is a mixed disulfide formed between the active site sulfhydryl group of the protein and free cysteine. Papain solutions are stable to several denaturing agents, i.e., full activity is maintained after recrystallization in 70% methanol and in 8 M urea solutions. However, there is a significant loss in activity when Papain is exposed to 10% trichloroacetic acid or to 6 M guanidine hydrochloride.
  
 
   
@@ -144,8 +124,6 @@ A common inactive form of Papain obtained during isolation is a mixed disulfide 
 
 **Specificity**
  
-&nbsp;
- 
 
 Papain will digest most protein substrates more extensively than the pancreatic proteases. Papain exhibits broad specificity, cleaving peptide bonds of basic amino acids, leucine, or glycine. It also hydrolyzes esters and amides. Papain exhibits a preference for an amino acid bearing a large hydrophobic side chain at the P2 position. It does not accept Val at the P1 position.
 
@@ -153,16 +131,10 @@ Papain will digest most protein substrates more extensively than the pancreatic 
 &nbsp;
 
 
-### Applications of  Papain
- 
- 
-&nbsp;
+#### Applications of  Papain
 
 Papain is commonly used in cell isolation procedures where it has proven more efficient and less destructive than other proteases on certain tissues.
 
- 
-&nbsp;
- 
 
 1. Papain digestion has proven useful for structural studies of enzymes and other proteins. Papain is used in red cell serology to modify the red cell surface to enhance or destroy the reactivity of many red cell antigens as an adjunct to grouping, antibody screening, or antibody identification procedures.
 2. Papain has also been shown to be useful in platelet serology.
@@ -171,17 +143,11 @@ Papain is commonly used in cell isolation procedures where it has proven more ef
   
 &nbsp;
 
-### Why antibodies are fragmented?
- 
-&nbsp;
- 
+#### Why antibodies are fragmented?
 
 Proteolytic cleavage of antibodies results in defined antibody fragments. The analysis of antibody fragments offers several advantages over intact antibodies. Some of the advantages of  antibody fragments are:
 
- 
-&nbsp;
 
- 
 
 1. Fab Fragments are useful in histochemical studies because the fragments penetrate the tissue better than IgG.
 2. Fab regions are used for the antigen-antibody binding studies without the interference from the non-antigen binding fragment (Fc region) and simplifies the characterization of MAb variants.
