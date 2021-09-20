@@ -2,37 +2,47 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.The enzyme Papain is present in which of the following fruit family?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Plum",
+        "b": "Apricot",
+        "c": "Papaya",
+        "d": "Mango"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.Which of the following are the applications of Papain?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Useful in Platelet Serology",
+        "b": "Used in cell isolation procedure",
+        "c": "Useful for structural studies of enzymes",
+        "d": "All of them"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.The applications of fragmented antibodies by papain are: a. Used in enzymatic synthesis of Amino acids b. Used for Antigen-Antibody Binding studies c. Used in Histochemical studies d. For Red Cell Serology",
+      "answers": {
+        "a": "Both a and d",
+        "b": "Both b and c",
+        "c": "Only a",
+        "d": "Only c"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Which is the chemical used for the further treatment of cleaved fragments of antibody?",
+      "answers": {
+        "a": "70% Methanol",
+        "b": "Mercaptoethanol",
+        "c": "Both 1 & 2",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

@@ -2,37 +2,45 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.Which is the most abundant antibody present in serum?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "IgG",
+        "b": "IgE",
+        "c": "IgA",
+        "d": "IgD"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.The enzyme Protease cleaves the IgG antibodies in hinge region and forms 2 fragments. Which of the following are the fragments formed by Papain?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "F(ab)2 and Fc",
+        "b": "2F(ab) and Fc",
+        "c": "1F(ab) and 2Fc",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.Papain digested antibody is able to promote agglutination,percipitation,opsonization etc.",
+      "answers": {
+        "a": "True",
+        "b": "False"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Which is the chemical used for the further treatment of cleaved fragments of antibody?",
+      "answers": {
+        "a": "70% Methanol",
+        "b": "Mercaptoethanol",
+        "c": "Both 1 & 2",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
