@@ -1,4 +1,4 @@
-## Principle:
+### Principle:
  
 &nbsp;
  
@@ -10,7 +10,7 @@ Antibodies pervade almost every tissue and fluid in our body. Functionally antib
 &nbsp;
 
 
-### IgG Antibodies
+#### IgG Antibodies
  
 
 The important structural features of antibodies are easiest to understand by considering IgG antibodies which contain only one structural unit and also most abundant in serum. About 75% of all immunoglobulins in our body are IgG. Compared to the other classes of immunoglobulin it is small and light weighing in at about 146 kilodaltons. Its heavy chains are called gamma heavy chains and contain very little carbohydrate (about 3%).
@@ -36,10 +36,7 @@ The two heavy chain polypeptides in the Y structure are identical and are approx
 &nbsp;
  
 
-### Cleavage of IgG using Proteolytic Enzymes
- 
- 
-&nbsp;
+#### Cleavage of IgG using Proteolytic Enzymes
  
 
 The structural aspects of antibodies using Proteolytic enzymes such as Papain and pepsin were extensively studied by porter (1959) and Nisonoff.et.al (1960). The protein specific enzymes break the covalent peptide bond between two amino acid residues in the polypeptide chain, each enzyme having a special preference for a particular residue or residues.  Enzymes commonly used are Papain isolated from the latex of the papaya tree “Carcia papaya“ and pepsin isolated from stomach juice.
@@ -58,9 +55,6 @@ Papain splits the immunoglobulin molecule into three pieces of equal size. Thus 
 
 The fragments obtained by the Proteolytic cleavage of antibodies can be further subjected to chemical treatment yields smaller fragments. For example the treatment of Fab fragment with 2-Mercaptoethanol yields two smaller fragments one which is the L-chain while the other slightly larger than the L-chain. Also the prolonged treatment of Fc fragment with Papain cleaves this fragment further to produce Fc. By special chemical treatment it is also able to produce Fv fragments which consists of the VH  and VL domains held together by noncovalent bonds.
  
-
- 
-
  &nbsp;
 
 <img src="images/2.png" title=""/>
@@ -71,10 +65,7 @@ The fragments obtained by the Proteolytic cleavage of antibodies can be further 
  
 
  
-### Papain:
- 
-&nbsp;
-
+#### Papain:
  
 Papain is a cysteine protease of the peptidase C1 family. Papain consists of a single polypeptide chain with three disulfide bridges and a sulfhydryl group necessary for activity of the enzyme. Papain cleaves immunoglobulin G molecules in the hinge reason which results in the generation of three ~50kDa fragments; two Fab domains and a Fc domain.  The Papain-digested antibody is unable to promote agglutination, precipitation, opsonization, and lysis.
 
@@ -129,7 +120,7 @@ Papain is soluble in water at 10 mg/ml. The enzyme is typically diluted in buffe
  
 &nbsp;
 
-<img src="images/1.png" title=""/>
+<img src="images/3.png" title=""/>
  
 &nbsp;
 
@@ -153,10 +144,7 @@ Papain will digest most protein substrates more extensively than the pancreatic 
 &nbsp;
 
 
-### Applications of  Papain
- 
- 
-&nbsp;
+#### Applications of  Papain
 
 Papain is commonly used in cell isolation procedures where it has proven more efficient and less destructive than other proteases on certain tissues.
 
@@ -171,10 +159,7 @@ Papain is commonly used in cell isolation procedures where it has proven more ef
   
 &nbsp;
 
-### Why antibodies are fragmented?
- 
-&nbsp;
- 
+#### Why antibodies are fragmented?
 
 Proteolytic cleavage of antibodies results in defined antibody fragments. The analysis of antibody fragments offers several advantages over intact antibodies. Some of the advantages of  antibody fragments are:
 
